@@ -1,4 +1,4 @@
-This is a Python program that quizzes users with math flashcards.
+**This is a Python program that quizzes users with math flashcards.**
 
 ## Features
 - Random math questions
